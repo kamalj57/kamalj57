@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KAMALESH J</h1>
-<h3 align="center">A passionate fullstack developer and UI/UX designer from India,who loves to explore new technologies</h3>
+<h3 align="center">A passionate fullstack developer and UI/UX designer ,who loves to explore new technologies</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
 
