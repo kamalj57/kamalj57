@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://kamaleshj-portfolio.vercel.app](https://kamaleshj-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [https://kamaleshj.vercel.app](https://kamaleshj.vercel.app)
 
 - 💬 Ask me about **React,Node,Mysql,MongoDB,Figma**
 
