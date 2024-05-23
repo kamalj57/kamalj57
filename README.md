@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kamal452jk@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/1/home](https://drive.google.com/drive/u/1/home)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/1/folders/1JYfMhn7jI_7ibf1ahRxPL3iEwWQyHMKD)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
